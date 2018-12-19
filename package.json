@@ -1,0 +1,19 @@
+{
+  "name": "workflowy-vuex-plugin",
+  "version": "0.0.1",
+  "description": "Vuex plugin for the WorkFlowy API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demsullivan/workflowy-vuex-plugin.git"
+  },
+  "author": "Dave Sullivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demsullivan/workflowy-vuex-plugin/issues"
+  },
+  "homepage": "https://github.com/demsullivan/workflowy-vuex-plugin#readme"
+}
